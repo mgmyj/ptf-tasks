@@ -1,0 +1,8 @@
+{
+  "name": "ptf-tasks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "מערכת ניהול משימות – גרסת פריסה (קובץ שרת מאוחד)",
+  "engines": { "node": ">=22.13" },
+  "scripts": { "start": "node --disable-warning=ExperimentalWarning server.js" }
+}
